@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+
+}
+.nav1{
+    display: flex;
+    color: white;
+    margin-top: 9px;
+}
+.nav:hover{
+    background-color: red;
+}
+.nav{
+    margin: 20px;
+}
+img{
+    width: 199px;
+    height: 66px;
+   
+}
+.img{
+    background-color: white;
+    padding: 0px 31px;
+    border: 3px solid black ;
+}
+.center{
+    
+    width: 100%;
+    height: auto;
+}
+hr{
+    margin-top: 9px;
+}
+.parag{
+    text-align: center;
+    color: rgb(55, 55, 190);
+    margin-top: 6px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}

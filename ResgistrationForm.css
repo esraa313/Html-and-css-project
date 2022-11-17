@@ -1,0 +1,172 @@
+
+    nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+
+}
+.nav1{
+    display: flex;
+    color: white;
+    margin-top: 9px;
+}
+.nav:hover{
+    background-color: red;
+}
+.nav{
+    margin: 20px;
+}
+img{
+    width: 199px;
+    height: 66px;
+   
+}
+.Reg{
+   margin-top: 1%;
+   margin-bottom: 1%;
+   margin-left: 30%;
+   margin-right: 30%;
+    background: rgb(240, 247, 244);
+    box-sizing: content-box;
+    border: 3px solid rgb(185, 214, 204);
+}
+.Phone{
+    position: relative;
+    margin-top: 19px;
+}
+hr{
+    margin-top: 9px;
+}
+.copyright{
+    text-align: center;
+    color: rgb(39, 39, 151);
+}
+h3{
+    margin-left: 2%;
+    color: rgb(63, 160, 152);
+}
+.field{
+    margin-left: 1.7%;
+    margin-right: 3%;
+    border: 2px dashed rgb(63, 160, 152);
+    padding: .3%;
+    background-color: rgb(224, 221, 221);
+    font-size: 15px;
+}
+label{
+    margin-left: 2%;
+    padding: 3px;
+    font-size: 76%;
+    background-color: rgb(141, 247, 211);
+    
+}
+.Labelinput{
+    margin-bottom: 4px;
+    display: flex;
+}
+.name{
+    padding-left: 95px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.email{
+    padding-left: 101px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+
+}
+.alternate{
+    padding-left: 54px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.your{
+    padding-left:91px;
+    padding-bottom: 17px;
+    padding-top: 17px;
+
+}
+.country{
+    font-size: 14px;
+    background-color:rgb(240, 247, 244);
+}
+.mobile{
+    padding-left: 83.4px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+
+}
+.postal{
+    padding-left: 53px;
+    padding-bottom: 29px;
+    padding-top: 29px;
+}
+.country1{
+    padding-left: 112.5px;
+
+}
+.password{
+    padding-left: 107px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.Re{
+    padding-left: 53px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.check{
+    background-color:rgb(240, 247, 244);
+    
+}
+.check1{
+    text-align: center;
+}
+.submit{
+    text-align: center;
+    padding: 11px;
+}
+input {
+    margin-left: 13px;
+}
+.name1{
+    width: 45%;
+}
+.select{
+    margin-left: 3%;
+}
+#email{
+    width: 61%;
+}
+#email1{
+    width: 61%;
+}
+#n1{
+    width: 13%;
+}
+#n2{
+    width: 7%;
+}
+#n3{
+    width: 31%;
+}
+.inputs3{
+    margin-left: 30.4%;
+    padding-bottom: 3px;
+}
+#mobile{
+    width: 49%;
+}
+#postal{
+    width: 55%;
+}
+#select{
+    width: 55%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.point{
+    color: red;
+}

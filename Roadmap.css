@@ -1,0 +1,57 @@
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+
+}
+.nav1{
+    display: flex;
+    color: white;
+    margin-top: 9px;
+}
+.nav:hover{
+    background-color: red;
+}
+.nav{
+    margin: 20px;
+}
+img{
+    width: 199px;
+    height: 66px;
+   
+}
+.img{
+    background-color: white;
+    padding: 0px 31px;
+    border: 3px solid black ;
+}
+h1{
+    text-align: center; 
+    color: rgb(190, 32, 32);
+    margin: 19px;
+}
+.parag1{
+    margin-bottom: 13px;
+}
+.h3{
+    
+    color: rgb(190, 32, 32);
+}
+li{
+    font-weight: 400;
+}
+.parts{
+    display: flex;
+}
+.part1{
+    width: 44%;
+}
+.style{
+    text-align: center; 
+    color: rgb(8, 8, 182);
+}
+.nav{
+    color: white;
+    text-decoration: none;
+}
